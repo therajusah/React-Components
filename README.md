@@ -1,8 +1,3 @@
-# React + Vite
+## Question.1 : create a profile component in reactJS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ ![Vite-React](https://github.com/therajusah/React-Components/assets/59579007/b9f27163-62b0-4783-8f2e-ee706e42aa6c)
