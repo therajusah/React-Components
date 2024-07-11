@@ -1,12 +1,15 @@
 // import Profile from "./components/Profile";
 
-import ColorChanger from "./components/ColorChanger";
+import ParaGenerator from "./components/ParaGenerator";
+
+// import ColorChanger from "./components/ColorChanger";
 
 const App = () => {
   return (
     <>
     {/* <Profile /> */}
-    <ColorChanger />
+    {/* <ColorChanger /> */}
+    <ParaGenerator />
     </>
   );
 };
